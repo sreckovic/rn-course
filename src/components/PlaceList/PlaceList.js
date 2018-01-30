@@ -3,7 +3,7 @@ import { StyleSheet, View } from "react-native";
 
 import ListItem from "./ListItem/ListItem";
 
-const list = ({ places }) => {
+const placeList = ({ places }) => {
   /*let placesOutput = null;
     if (places) {
       placesOutput = places.map(place => {
@@ -11,7 +11,11 @@ const list = ({ places }) => {
       });
     }*/
   const placesOutput = places.map((place, i) => (
-    <ListItem key={i} placeName={place} />
+    <ListItem
+      key={i}
+      placeName={place}
+      onItemPressed={() => alert("Item pressed - ID:" + i)}
+    />
   ));
 
   return <View style={styles.listContainer}>{placesOutput}</View>;
@@ -23,4 +27,4 @@ const styles = StyleSheet.create({
   }
 });
 
-export default list;
+export default placeList;
