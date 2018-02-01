@@ -29,6 +29,7 @@ class App extends Component {
       };
     });*/
     this.props.onAddPlace(placeName);
+    console.log("Place Added!");
   };
 
   /*placeDeletedHandler = key => {
