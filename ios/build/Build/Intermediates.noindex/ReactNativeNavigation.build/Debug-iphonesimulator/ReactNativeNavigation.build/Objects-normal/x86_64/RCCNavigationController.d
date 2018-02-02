@@ -1,0 +1,35 @@
+dependencies: \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/RCCNavigationController.m \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/RCCNavigationController.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/RCCViewController.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/RCCManager.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManagerUtils.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/Helpers/RCCTitleViewHelper.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/RCCCustomBarButtonItem.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/UIViewController+Rotation.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/Helpers/RCTHelpers.h \
+  /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/ios/Helpers/RCTConvert+UIBarButtonSystemItem.h

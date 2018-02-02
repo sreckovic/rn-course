@@ -4,15 +4,8 @@
             "outputFile": "/Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
             "map": [
                 {
-                    "source": "/Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/ed2485b0d772f604a2b60b262138a4e3/res/values-port/values-port.xml",
+                    "source": "/Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/res/values-port/values-port.xml",
                     "from": {
-                        "startLines": "4",
-                        "startColumns": "4",
-                        "startOffsets": "280",
-                        "endColumns": "55",
-                        "endOffsets": "331"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
