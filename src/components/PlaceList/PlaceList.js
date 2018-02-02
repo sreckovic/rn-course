@@ -3,7 +3,7 @@ import { StyleSheet, ScrollView, FlatList } from "react-native";
 
 import ListItem from "./ListItem/ListItem";
 
-const placeList = ({ places, onItemSelected }) => {
+const placeList = props => {
   /*let placesOutput = null;
     if (places) {
       placesOutput = places.map(place => {
@@ -24,12 +24,12 @@ const placeList = ({ places, onItemSelected }) => {
   return (
     <FlatList
       style={styles.listContainer}
-      data={places}
+      data={props.places}
       renderItem={info => (
         <ListItem
           placeName={info.item.name}
           placeImage={info.item.image}
-          onItemPressed={() => onItemSelected(info.item.key)}
+          onItemPressed={() => props.onItemSelected(info.item.key)}
         />
       )}
     />

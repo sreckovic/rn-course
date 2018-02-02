@@ -1,8 +1,8 @@
 import * as actionTypes from "../actions/actionTypes";
 
 const initialState = {
-  places: [],
-  selectedPlace: null
+  places: []
+  //selectedPlace: null
 };
 
 const reducer = (state = initialState, action) => {
@@ -24,10 +24,10 @@ const reducer = (state = initialState, action) => {
         ...state,
         places: state.places.filter(place => {
           return place.key !== state.selectedPlace.key;
-        }),
-        selectedPlace: null
+        })
+        //selectedPlace: null
       };
-    case actionTypes.SELECT_PLACE:
+    /*case actionTypes.SELECT_PLACE:
       return {
         ...state,
         selectedPlace: state.places.find(place => {
@@ -38,7 +38,7 @@ const reducer = (state = initialState, action) => {
       return {
         ...state,
         selectedPlace: null
-      };
+      };*/
     default:
       return state;
   }

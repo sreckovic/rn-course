@@ -13,7 +13,7 @@ export const deletePlace = () => {
   };
 };
 
-export const selectPlace = key => {
+/*export const selectPlace = key => {
   return {
     type: actionTypes.SELECT_PLACE,
     key: key
@@ -24,4 +24,4 @@ export const deselectPlace = () => {
   return {
     type: actionTypes.DESELECT_PLACE
   };
-};
+};*/
