@@ -1,0 +1,18 @@
+{
+  "editor.formatOnSave": true,
+  "prettier.singleQuote": true,
+  "editor.fontSize": 15,
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "boundary",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.colorTheme": "City Lights",
+  "window.zoomLevel": 1,
+  "explorer.confirmDragAndDrop": false,
+  "[javascriptreact]": {
+    "editor.formatOnSave": true
+  },
+  "[css]": {
+    "editor.formatOnSave": true
+  },
+  "extensions.ignoreRecommendations": false
+}
