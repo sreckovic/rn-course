@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-vector-icons] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/121134806fba22c32f235b3eadcca1ab/AndroidManifest.xml:2:1-15:12
@@ -11,6 +11,11 @@ MERGED from [com.balysv.materialmenu:material-menu-toolbar:1.5.4] /Users/nemanja
 MERGED from [com.aurelhubert:ahbottomnavigation:2.0.6] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.0.6.aar/d372c19c5f95924c699ac4682714d596/AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/AndroidManifest.xml:17:1-31:12
+MERGED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-12:12
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:16:1-25:12
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/67b9501cb089a5be5252c09876ab5969/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:16:1-23:12
 MERGED from [com.android.support:transition:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/c0b0fdcde4617258fb3c9336d6301ba7/AndroidManifest.xml:17:1-28:12
 MERGED from [com.android.support:support-v4:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d0a256c2a07d72b52fba7c59b0f78f00/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.fbui.textlayoutbuilder:textlayoutbuilder:1.0.0] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/textlayoutbuilder-1.0.0.aar/13b4c2ebc9c2fcfb7e023b0930b95f59/AndroidManifest.xml:10:1-18:12
@@ -31,9 +36,9 @@ MERGED from [com.android.support:support-media-compat:25.3.1] /Users/nemanjasrec
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e14a5a36f2575d928c8da10b1c7a8592/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4dfe8e1b50b226a3a8f61002fe9a5634/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
 	package
 		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:2:5-27
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
@@ -50,6 +55,10 @@ INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 uses-permission#android.permission.INTERNET
 ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:9:5-67
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:20:5-66
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:20:5-66
 	android:name
 		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:6:22-64
 uses-permission#android.permission.SYSTEM_ALERT_WINDOW
@@ -76,6 +85,16 @@ MERGED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/
 MERGED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/AndroidManifest.xml:21:5-23:78
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/AndroidManifest.xml:21:5-23:78
+MERGED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:23:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/67b9501cb089a5be5252c09876ab5969/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/67b9501cb089a5be5252c09876ab5969/AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:17:5-42
 MERGED from [com.android.support:transition:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/c0b0fdcde4617258fb3c9336d6301ba7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:transition:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/c0b0fdcde4617258fb3c9336d6301ba7/AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-v4:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d0a256c2a07d72b52fba7c59b0f78f00/AndroidManifest.xml:21:5-23:54
@@ -127,7 +146,7 @@ INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:13:5-30:19
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:13:5-31:19
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/121134806fba22c32f235b3eadcca1ab/AndroidManifest.xml:13:5-20
@@ -140,6 +159,14 @@ MERGED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/
 MERGED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/570a4610af892ee26e51f95b0bc1b342/AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:24:5-19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/67b9501cb089a5be5252c09876ab5969/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-tasks-10.0.1.aar/67b9501cb089a5be5252c09876ab5969/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:19:5-21:19
 MERGED from [com.android.support:transition:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/c0b0fdcde4617258fb3c9336d6301ba7/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:transition:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/c0b0fdcde4617258fb3c9336d6301ba7/AndroidManifest.xml:26:5-20
 MERGED from [com.android.support:support-v4:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/d0a256c2a07d72b52fba7c59b0f78f00/AndroidManifest.xml:29:5-20
@@ -202,6 +229,12 @@ MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maxi
 		ADDED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
 		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:29:17-81
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:7-122
+	android:value
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:64-119
+	android:name
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:18-63
 activity#com.reactnativenavigation.controllers.NavigationActivity
 ADDED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
 	android:configChanges
@@ -236,9 +269,37 @@ MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/
 		ADDED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:27:9-31
 	android:name
 		ADDED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:26:9-47
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-maps/lib/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:19:5-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:19:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:21:5-77
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:21:19-51
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-maps-10.0.1.aar/b86ac62d058b93435caf1284524a3347/AndroidManifest.xml:21:52-75
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-base-10.0.1.aar/193bde5760eb685d4c3d89211e27fa31/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:20:20-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-32:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
