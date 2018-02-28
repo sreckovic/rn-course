@@ -33,6 +33,10 @@ class SharePlaceScreen extends Component {
           notEmpty: true
         }
       }
+    },
+    location: {
+      value: null,
+      valid: false
     }
   };
 
@@ -68,10 +72,33 @@ class SharePlaceScreen extends Component {
     });
   };
 
+  locationPickedHandler = location => {
+    this.setState(prevState => {
+      return {
+        controls: {
+          ...prevState.controls,
+          location: {
+            value: location,
+            valid: true
+          }
+        }
+      };
+    });
+  };
+
+  /*
   placeAddedHandler = () => {
     if (this.state.controls.placeName.value.trim() !== '') {
       this.props.onAddPlace(this.state.controls.placeName.value);
     }
+  };
+  */
+
+  placeAddedHandler = () => {
+    this.props.onAddPlace(
+      this.state.controls.placeName.value,
+      this.state.controls.location.value
+    );
   };
 
   render() {
@@ -82,7 +109,7 @@ class SharePlaceScreen extends Component {
             <HeadingText>Share a place with us!</HeadingText>
           </MainText>
           <PickImage />
-          <PickLocation />
+          <PickLocation onLocationPick={this.locationPickedHandler} />
           <PlaceInput
             placeData={this.state.controls.placeName}
             onChangeText={this.placeNameChangedHandler}
@@ -91,7 +118,10 @@ class SharePlaceScreen extends Component {
             <Button
               title="Share the Place"
               onPress={this.placeAddedHandler}
-              disabled={!this.state.controls.placeName.valid}
+              disabled={
+                !this.state.controls.placeName.valid ||
+                !this.state.controls.location.valid
+              }
             />
           </View>
         </View>
@@ -123,7 +153,8 @@ const styles = StyleSheet.create({
 
 const mapDispatchToProps = dispatch => {
   return {
-    onAddPlace: placeName => dispatch(actions.addPlace(placeName)),
+    onAddPlace: (placeName, location) =>
+      dispatch(actions.addPlace(placeName, location)),
     onDeletePlace: () => dispatch(actions.deletePlace())
   };
 };

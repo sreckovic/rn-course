@@ -1,4 +1,4 @@
-import * as actionTypes from "../actions/actionTypes";
+import * as actionTypes from '../actions/actionTypes';
 
 const initialState = {
   places: []
@@ -15,8 +15,9 @@ const reducer = (state = initialState, action) => {
           name: action.placeName,
           image: {
             uri:
-              "https://static.pexels.com/photos/221471/pexels-photo-221471.jpeg"
-          }
+              'https://static.pexels.com/photos/221471/pexels-photo-221471.jpeg'
+          },
+          location: action.location
         })
       };
     case actionTypes.DELETE_PLACE:

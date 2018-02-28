@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-20:12
 MERGED from [:react-native-vector-icons] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-11:12
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/121134806fba22c32f235b3eadcca1ab/AndroidManifest.xml:2:1-15:12
@@ -36,9 +36,9 @@ MERGED from [com.android.support:support-media-compat:25.3.1] /Users/nemanjasrec
 MERGED from [com.android.support:support-core-utils:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/e14a5a36f2575d928c8da10b1c7a8592/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4dfe8e1b50b226a3a8f61002fe9a5634/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:17:1-31:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12
 	package
 		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:2:5-27
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
@@ -67,10 +67,14 @@ MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gr
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/121134806fba22c32f235b3eadcca1ab/AndroidManifest.xml:11:5-78
 	android:name
 		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:7:22-75
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:8:5-78
+	android:name
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:8:22-76
 uses-sdk
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:5-12:41
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
 MERGED from [:react-native-vector-icons] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-vector-icons/android/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
@@ -133,20 +137,20 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /Users/nemanjasreckovic
 MERGED from [com.android.support:support-core-ui:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/4dfe8e1b50b226a3a8f61002fe9a5634/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:21:5-23:58
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:21:5-23:58
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
-INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:9:5-11:41
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:5-12:41
+INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:5-12:41
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/e06658820eccdbe3fe61306363b5ec05/AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:11:9-38
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:12:9-38
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:10:9-35
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:11:9-35
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 		INJECTED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml
 application
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:13:5-31:19
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:14:5-32:19
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-18:19
 MERGED from [com.facebook.react:react-native:0.50.3] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/react-native-0.50.3.aar/121134806fba22c32f235b3eadcca1ab/AndroidManifest.xml:13:5-20
@@ -192,49 +196,49 @@ MERGED from [com.android.support:support-core-ui:25.3.1] /Users/nemanjasreckovic
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/478b091ded363c583e46b5a9128c9272/AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:16:7-39
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:17:7-39
 	android:icon
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:17:7-41
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:18:7-41
 	android:allowBackup
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:15:7-33
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:16:7-33
 	android:theme
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:18:7-38
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:19:7-38
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:14:7-38
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:15:7-38
 activity#com.rncourse.MainActivity
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:19:7-28:18
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:20:7-29:18
 	android:label
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:21:9-41
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:22:9-41
 	android:windowSoftInputMode
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:23:9-51
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:24:9-51
 	android:configChanges
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:22:9-79
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:23:9-79
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:20:9-37
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:21:9-37
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:24:9-27:25
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:25:9-28:25
 action#android.intent.action.MAIN
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:25:13-65
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:26:13-65
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:25:21-62
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:26:21-62
 category#android.intent.category.LAUNCHER
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:26:13-73
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:27:13-73
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:26:23-70
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:27:23-70
 activity#com.facebook.react.devsupport.DevSettingsActivity
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:29:7-84
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:7-84
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
 MERGED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:15:9-17:40
 	android:exported
 		ADDED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:17:13-37
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:29:17-81
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:17-81
 meta-data#com.google.android.geo.API_KEY
-ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:7-122
+ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:31:7-122
 	android:value
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:64-119
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:31:64-119
 	android:name
-		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:30:18-63
+		ADDED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:31:18-63
 activity#com.reactnativenavigation.controllers.NavigationActivity
 ADDED from [:react-native-navigation] /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/node_modules/react-native-navigation/android/app/build/intermediates/manifests/full/debug/AndroidManifest.xml:12:9-14:86
 	android:configChanges
@@ -298,8 +302,8 @@ ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanja
 	android:name
 		ADDED from [com.google.android.gms:play-services-basement:10.0.1] /Users/nemanjasreckovic/.gradle/caches/transforms-1/files-1.1/play-services-basement-10.0.1.aar/12c92c79179df1458905c8d3f48a2c0f/AndroidManifest.xml:20:20-65
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_PHONE_STATE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-33:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/nemanjasreckovic/React-Native-Maximilian/rn-course/android/app/src/main/AndroidManifest.xml:1:1-34:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE
