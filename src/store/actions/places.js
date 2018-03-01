@@ -13,14 +13,31 @@ export const addPlace = (placeName, location, image) => {
 
 export const addPlace = (placeName, location, image) => {
   return dispatch => {
-    const placeData = {
-      name: placeName,
-      location: location
-    };
-    fetch('https://awesome-places-r-1519732224475.firebaseio.com/places.json', {
-      method: 'POST',
-      body: JSON.stringify(placeData)
-    })
+    fetch(
+      'https://us-central1-awesome-places-r-1519732224475.cloudfunctions.net/storeImage',
+      {
+        method: 'POST',
+        body: JSON.stringify({
+          image: image.base64
+        })
+      }
+    )
+      .catch(err => console.log(err))
+      .then(res => res.json())
+      .then(parsedRes => {
+        const placeData = {
+          name: placeName,
+          location: location,
+          image: parsedRes.imageUrl
+        };
+        return fetch(
+          'https://awesome-places-r-1519732224475.firebaseio.com/places.json',
+          {
+            method: 'POST',
+            body: JSON.stringify(placeData)
+          }
+        );
+      })
       .catch(err => console.log(err))
       .then(res => res.json())
       .then(parsedRes => {
